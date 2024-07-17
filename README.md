@@ -92,7 +92,7 @@
 ---
 
 ### 📈 Contributions:
-<!-- Uncomment the following line to use another GitHub Activity Graph service -->
-<!-- <p align="center"> -->
-<!--   <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=mjabed3834&theme=react-dark" alt="GitHub Activity Graph" /> -->
-<!-- </p> -->
+-- Uncomment the following line to use another GitHub Activity Graph service -->
+-- <p align="center"> -->
+--   <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=mjabed3834&theme=react-dark" alt="GitHub Activity Graph" /> -->
+-- </p> -->
