@@ -1,11 +1,20 @@
-Here's a more detailed and visually enhanced version of your GitHub README file, with added sections to highlight your skills, projects, and contributions:
-
 ---
 
 <h1 align="center">Hi 👋, I'm Md Jabed Hosen</h1>
 <h3 align="center">As an ML Engineer, I aim to leverage my skills in algorithm design and machine learning, with strong proficiency in tools like TensorFlow, Python, and PyTorch. My goal is to drive transformative and innovative solutions across the broader landscape of Data Science technologies.</h3>
 
 ---
+🚀 Current Focus:
+Diving deep into cutting-edge Computer Vision research to contribute to impactful advancements.
+Embracing continuous learning with a commitment to mastering new technologies and methodologies daily.
+Actively seeking collaborative opportunities to innovate and excel in Hackathons and Open Source projects.
+🤝 Collaboration and Interests:
+Always open to connecting with fellow developers and engineers passionate about coding, mobile development, and machine learning.
+Eager to share knowledge, tackle challenges, and grow together in the tech community.
+⚡ Quick Facts:
+Apart from coding, I find joy in playing cricket.
+Driven by a relentless curiosity and a love for programming, I thrive on learning and exploring the ever-evolving tech landscape.
+
 
 ### Connect with me:
 <p align="left">
@@ -68,30 +77,6 @@ Here's a more detailed and visually enhanced version of your GitHub README file,
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjabed3834&" alt="GitHub Streak" />
 </p>
-
----
-
-### 🛠️ My Projects:
-- **G-AgriNet: Advanced Crop Disease Detection System**  
-  Developed an advanced automated system for classifying crop diseases called G-AgriNet, achieving 99.25% accuracy using the CCMT Crop Pest and Disease Detection dataset.
-
-- **Explainable AI for Graph Neural Networks**  
-  Enhanced explainable graph neural networks (GNNs) for node-level categorization in agricultural applications, particularly focusing on pest and crop disease detection.
-
-- **Vehicle Type Classification**  
-  Worked on a dataset with 7 classes related to vehicle types, employing models like CNN, MobileNetV2, InceptionV3, DenseNet201, Xception, and VGG16.
-
----
-
-### 📫 How to Reach Me:
-- LinkedIn: [Md Jabed Hosen](https://linkedin.com/in/md-jabed-hosen-18099b16b/)
-- Facebook: [Md Jabed Hosen](https://fb.com/m.riyad1182)
-
----
-
-### 🏆 Achievements:
-- Developed a novel technique to improve GNN interpretability using GraphXAI visualization tools like Grad-CAM, GNNExplainer, GraphLIME, and SHAP analysis.
-- Implemented active learning methods for efficient sample selection, leading to improved model performance.
 
 ---
 
