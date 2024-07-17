@@ -1,34 +1,43 @@
+
 ---
 
 <h1 align="center">Hi 👋, I'm Md Jabed Hosen</h1>
 <h3 align="center">As an ML Engineer, I aim to leverage my skills in algorithm design and machine learning, with strong proficiency in tools like TensorFlow, Python, and PyTorch. My goal is to drive transformative and innovative solutions across the broader landscape of Data Science technologies.</h3>
 
 ---
-### 🚀 Current Focus:
--Diving deep into cutting-edge Computer Vision research to contribute to impactful advancements.
--Embracing continuous learning with a commitment to mastering new technologies and methodologies daily.
--Actively seeking collaborative opportunities to innovate and excel in Hackathons and Open Source projects.
-### 🤝 Collaboration and Interests:
--Always open to connecting with fellow developers and engineers passionate about coding, and machine learning.
--Eager to share knowledge, tackle challenges, and grow together in the tech community.
-### ⚡ Quick Facts:
--Apart from coding, I find joy in playing cricket.
--Driven by a relentless curiosity and a love for programming, I thrive on learning and exploring the ever-evolving tech landscape.
 
+### 🚀 Current Focus:
+- **Diving deep into cutting-edge Computer Vision research** to contribute to impactful advancements.
+- **Embracing continuous learning** with a commitment to mastering new technologies and methodologies daily.
+- **Actively seeking collaborative opportunities** to innovate and excel in Hackathons and Open Source projects.
+
+---
+
+### 🤝 Collaboration and Interests:
+- Always open to connecting with fellow developers and engineers passionate about **coding and machine learning**.
+- Eager to share knowledge, tackle challenges, and grow together in the tech community.
+
+---
+
+### ⚡ Quick Facts:
+- Apart from coding, I find joy in **playing cricket**.
+- Driven by a relentless curiosity and a love for programming, I thrive on learning and exploring the ever-evolving tech landscape.
+
+---
 
 ### Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/md-jabed-hosen-18099b16b/" target="blank">
+  <a href="https://linkedin.com/in/md-jabed-hosen-18099b16b/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://fb.com/m.riyad1182" target="blank">
+  <a href="https://fb.com/m.riyad1182" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-### Languages and Tools:
+### 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -67,22 +76,18 @@
 
 ---
 
-### GitHub Stats:
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjabed3834&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mjabed3834&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
+### 📊 GitHub Stats:
 <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mjabed3834&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mjabed3834&show_icons=true&locale=en" alt="GitHub Stats" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mjabed3834&" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🌱 What I'm Learning:
-- Advanced techniques in Natural Language Processing and Computer Vision.
-- New advancements in machine learning frameworks and tools.
+- Advanced techniques in **Natural Language Processing** and **Computer Vision**.
+- New advancements in **machine learning frameworks and tools**.
 
 ---
 
