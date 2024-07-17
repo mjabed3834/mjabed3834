@@ -4,16 +4,16 @@
 <h3 align="center">As an ML Engineer, I aim to leverage my skills in algorithm design and machine learning, with strong proficiency in tools like TensorFlow, Python, and PyTorch. My goal is to drive transformative and innovative solutions across the broader landscape of Data Science technologies.</h3>
 
 ---
-🚀 Current Focus:
-Diving deep into cutting-edge Computer Vision research to contribute to impactful advancements.
-Embracing continuous learning with a commitment to mastering new technologies and methodologies daily.
-Actively seeking collaborative opportunities to innovate and excel in Hackathons and Open Source projects.
-🤝 Collaboration and Interests:
-Always open to connecting with fellow developers and engineers passionate about coding, mobile development, and machine learning.
-Eager to share knowledge, tackle challenges, and grow together in the tech community.
-⚡ Quick Facts:
-Apart from coding, I find joy in playing cricket.
-Driven by a relentless curiosity and a love for programming, I thrive on learning and exploring the ever-evolving tech landscape.
+### 🚀 Current Focus:
+-Diving deep into cutting-edge Computer Vision research to contribute to impactful advancements.
+-Embracing continuous learning with a commitment to mastering new technologies and methodologies daily.
+-Actively seeking collaborative opportunities to innovate and excel in Hackathons and Open Source projects.
+### 🤝 Collaboration and Interests:
+-Always open to connecting with fellow developers and engineers passionate about coding, and machine learning.
+-Eager to share knowledge, tackle challenges, and grow together in the tech community.
+### ⚡ Quick Facts:
+-Apart from coding, I find joy in playing cricket.
+-Driven by a relentless curiosity and a love for programming, I thrive on learning and exploring the ever-evolving tech landscape.
 
 
 ### Connect with me:
